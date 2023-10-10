@@ -1,7 +1,6 @@
 ## Ransomware extension list
 
 *.cry
-.crypto
 *.darkness
 *.*enc*
 *.*exx
